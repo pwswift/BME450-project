@@ -5,7 +5,7 @@
 
 ## Team members
 
-Paul Swift (pwswift), Julian Vuong (jvuong)
+Paul Swift (pwswift), Julian Vuong (bagel12356)
 
 ## Project decription
 
