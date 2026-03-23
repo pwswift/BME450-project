@@ -1,7 +1,7 @@
 # BME450-project
 # Title
 
-“Processing ** images”
+“Kidney Stone Identification and Localization”
 
 ## Team members
 
